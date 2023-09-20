@@ -1,0 +1,19 @@
+{
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true,
+    "editor.tabSize": 4
+	},
+	"[javascriptreact]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+	},
+	"prettier.printWidth": 120,
+	"prettier.singleQuote": false,
+	"prettier.trailingComma": "es5",
+	"prettier.semi": true,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 2,
+
+}
